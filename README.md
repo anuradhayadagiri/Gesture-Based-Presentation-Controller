@@ -32,7 +32,7 @@ This project uses **MediaPipe hand tracking** and **OpenCV** to detect hand gest
 
 1. Clone the repository
 
-git clone https://github.com/Anusha-goud11/gesture-presentation-controller.git
+git clone https://github.com/anuradhayadagiri/gesture-presentation-controller.git
 
 2. Navigate to the project folder
 
@@ -67,30 +67,11 @@ MediaPipe detects hand landmarks and identifies finger positions.
 Based on these positions, gestures are recognized and converted into keyboard commands using PyAutoGUI to control presentation slides.
 
 ---
-## Applications
 
-* Touchless presentation control
-* Smart classrooms
-* Interactive teaching
-* Gesture based human-computer interaction
-
----
-
-## Future Improvements
-
-* Add more gesture controls
-* Multi-hand support
-* Custom gesture configuration
-* Cross-platform graphical interface
-
----
 
 ## Author
 
-Anusha
+Anuradha
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License.
